@@ -1,0 +1,152 @@
+Category	Date	PrevCount	TodayCount	Type
+Job Alerts	2025-01-14	3	4	Spike
+Job Alerts	2025-02-06	3	4	Spike
+Job Alerts	2025-02-12	3	4	Spike
+Job Alerts	2025-02-19	3	6	HighVolume,Spike
+Job Alerts	2025-02-26	3	4	Spike
+Job Alerts	2025-04-02	4	8	HighVolume,Spike
+Job Alerts	2025-04-04	5	11	HighVolume,Spike
+Job Alerts	2025-04-05	11	6	HighVolume
+Job Alerts	2025-04-07	3	7	HighVolume,Spike
+Job Alerts	2025-04-08	7	6	HighVolume
+Job Alerts	2025-04-09	6	7	HighVolume,Spike
+Job Alerts	2025-04-10	7	6	HighVolume
+Job Alerts	2025-04-11	6	10	HighVolume,Spike
+Job Alerts	2025-04-13	3	5	Spike
+Job Alerts	2025-04-15	5	6	HighVolume,Spike
+Job Alerts	2025-04-22	3	4	Spike
+Job Alerts	2025-04-23	4	6	HighVolume,Spike
+Job Alerts	2025-04-25	4	5	Spike
+Job Alerts	2025-04-28	2	6	HighVolume
+Job Alerts	2025-04-29	6	6	HighVolume
+Job Alerts	2025-05-02	3	5	Spike
+Job Alerts	2025-05-04	3	4	Spike
+Job Alerts	2025-05-07	3	7	HighVolume,Spike
+Job Alerts	2025-05-09	3	7	HighVolume,Spike
+Job Alerts	2025-05-15	3	4	Spike
+Job Alerts	2025-05-16	4	5	Spike
+Job Alerts	2025-05-19	1	6	HighVolume
+Job Alerts	2025-05-21	3	7	HighVolume,Spike
+Job Alerts	2025-05-24	3	4	Spike
+Job Alerts	2025-05-26	3	5	Spike
+Job Alerts	2025-05-31	2	6	HighVolume
+Job Alerts	2025-06-02	3	5	Spike
+Job Alerts	2025-06-10	4	5	Spike
+Job Alerts	2025-06-13	3	4	Spike
+Job Alerts	2025-06-17	3	4	Spike
+Job Alerts	2025-06-21	3	4	Spike
+Job Alerts	2025-06-25	4	6	HighVolume,Spike
+Job Alerts	2025-06-28	4	5	Spike
+Job Alerts	2025-07-01	3	5	Spike
+Job Alerts	2025-07-02	5	6	HighVolume,Spike
+Job Alerts	2025-07-04	5	6	HighVolume,Spike
+Job Alerts	2025-07-05	6	6	HighVolume
+Job Alerts	2025-07-07	4	5	Spike
+Job Alerts	2025-07-09	4	6	HighVolume,Spike
+Job Alerts	2025-07-13	4	5	Spike
+Job Alerts	2025-07-16	4	5	Spike
+Job Alerts	2025-07-20	3	5	Spike
+Job Alerts	2025-07-25	4	7	HighVolume,Spike
+Job Alerts	2025-07-28	3	4	Spike
+Job Alerts	2025-08-01	3	4	Spike
+Job Alerts	2025-08-03	3	4	Spike
+Promotions	2021-06-03	3	4	Spike
+Promotions	2021-06-15	3	5	Spike
+Promotions	2021-12-23	4	8	HighVolume,Spike
+Promotions	2021-12-24	8	8	HighVolume
+Promotions	2021-12-25	8	7	HighVolume
+Promotions	2024-05-09	3	4	Spike
+Promotions	2024-06-01	3	4	Spike
+Promotions	2024-11-25	1	6	HighVolume
+Promotions	2024-12-02	3	4	Spike
+Promotions	2025-04-14	2	6	HighVolume
+Promotions	2025-04-21	1	7	HighVolume
+Promotions	2025-07-15	4	5	Spike
+Social	2020-08-21	2	7	HighVolume
+Social	2022-07-28	3	4	Spike
+Spam	2025-07-18	2	6	HighVolume
+Transactional/Finance	2023-09-12	1	9	HighVolume
+Transactional/Finance	2024-11-06	4	6	HighVolume,Spike
+Transactional/Finance	2025-06-18	4	10	HighVolume,Spike
+Transactional/Finance	2025-06-21	3	6	HighVolume,Spike
+Transactional/Finance	2025-06-23	1	6	HighVolume
+Transactional/Finance	2025-07-16	1	7	HighVolume
+Updates	2021-03-26	2	8	HighVolume
+Updates	2021-06-11	3	6	HighVolume,Spike
+Updates	2021-09-24	3	6	HighVolume,Spike
+Updates	2022-04-22	3	4	Spike
+Updates	2023-08-06	3	9	HighVolume,Spike
+Updates	2023-09-02	3	4	Spike
+Updates	2023-09-13	3	4	Spike
+Updates	2023-10-06	3	4	Spike
+Updates	2023-11-20	3	5	Spike
+Updates	2023-11-27	1	9	HighVolume
+Updates	2023-12-02	3	6	HighVolume,Spike
+Updates	2023-12-07	2	6	HighVolume
+Updates	2024-01-07	3	4	Spike
+Updates	2024-01-08	4	5	Spike
+Updates	2024-01-11	4	8	HighVolume,Spike
+Updates	2024-01-14	3	4	Spike
+Updates	2024-01-15	4	5	Spike
+Updates	2024-01-19	2	6	HighVolume
+Updates	2024-01-29	3	5	Spike
+Updates	2024-01-31	3	5	Spike
+Updates	2024-02-03	3	5	Spike
+Updates	2024-02-05	3	9	HighVolume,Spike
+Updates	2024-02-06	9	10	HighVolume,Spike
+Updates	2024-02-12	3	4	Spike
+Updates	2024-02-20	3	6	HighVolume,Spike
+Updates	2024-02-24	3	4	Spike
+Updates	2024-03-04	3	6	HighVolume,Spike
+Updates	2024-03-07	2	6	HighVolume
+Updates	2024-03-09	2	7	HighVolume
+Updates	2024-03-11	3	4	Spike
+Updates	2024-03-12	4	6	HighVolume,Spike
+Updates	2024-03-14	3	5	Spike
+Updates	2024-04-05	3	13	HighVolume,Spike
+Updates	2024-04-13	3	6	HighVolume,Spike
+Updates	2024-04-29	3	6	HighVolume,Spike
+Updates	2024-04-30	6	9	HighVolume,Spike
+Updates	2024-05-14	3	4	Spike
+Updates	2024-05-30	3	4	Spike
+Updates	2024-07-04	3	5	Spike
+Updates	2024-07-07	3	5	Spike
+Updates	2024-07-17	1	6	HighVolume
+Updates	2024-07-22	3	8	HighVolume,Spike
+Updates	2024-07-26	3	5	Spike
+Updates	2024-07-30	3	5	Spike
+Updates	2024-08-08	2	15	HighVolume
+Updates	2024-08-09	15	7	HighVolume
+Updates	2024-09-02	3	4	Spike
+Updates	2024-09-30	3	4	Spike
+Updates	2024-10-26	1	6	HighVolume
+Updates	2024-12-18	2	6	HighVolume
+Updates	2025-01-30	2	7	HighVolume
+Updates	2025-02-13	1	6	HighVolume
+Updates	2025-02-27	3	11	HighVolume,Spike
+Updates	2025-03-26	3	5	Spike
+Updates	2025-03-27	5	7	HighVolume,Spike
+Updates	2025-04-10	3	4	Spike
+Updates	2025-04-17	3	4	Spike
+Updates	2025-05-16	3	7	HighVolume,Spike
+Updates	2025-06-03	3	4	Spike
+Updates	2025-06-05	3	8	HighVolume,Spike
+Updates	2025-06-16	2	6	HighVolume
+Updates	2025-06-18	2	6	HighVolume
+Updates	2025-06-22	4	6	HighVolume,Spike
+Updates	2025-06-23	6	7	HighVolume,Spike
+Updates	2025-06-25	4	5	Spike
+Updates	2025-06-26	5	10	HighVolume,Spike
+Updates	2025-07-03	4	7	HighVolume,Spike
+Updates	2025-07-06	3	5	Spike
+Updates	2025-07-13	4	6	HighVolume,Spike
+Updates	2025-07-17	3	5	Spike
+Updates	2025-07-18	5	7	HighVolume,Spike
+Updates	2025-07-26	4	5	Spike
+Updates	2025-07-27	5	6	HighVolume,Spike
+Useful	2025-07-29	3	15	HighVolume
+Useful	2020-08-24	1	6	HighVolume
+Useful	2025-02-19	1	6	HighVolume
+Useful	2025-04-10	5	9	HighVolume,Spike
+Useful	2025-07-06	1	8	HighVolume
+Useful	2025-07-07	8	19	HighVolume,Spike
