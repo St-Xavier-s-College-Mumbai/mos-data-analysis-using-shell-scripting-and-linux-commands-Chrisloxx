@@ -1,5 +1,3 @@
-# --- Gnuplot script to create a colored bar chart with data labels ---
-
 # 1. Set the output format and file name
 set terminal pngcairo enhanced font "sans,10" size 800,600
 set output 'insight4_barchart.png'

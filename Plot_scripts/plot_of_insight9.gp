@@ -1,4 +1,3 @@
-# plot_of_insight9.gp
 set terminal pngcairo size 800,600 enhanced font 'Verdana,10'
 set output 'insight9_heatmap.png'
 

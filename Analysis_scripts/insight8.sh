@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 # --- Configuration ---
 INPUT_FILE="emails_categorized.tsv"
 

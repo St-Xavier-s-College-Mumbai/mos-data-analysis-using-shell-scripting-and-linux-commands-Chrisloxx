@@ -1,4 +1,3 @@
-# plot_of_insight10_default.gp
 set terminal pngcairo enhanced font "sans,10" size 900,450
 set output 'insight10_Barchart.png'
 

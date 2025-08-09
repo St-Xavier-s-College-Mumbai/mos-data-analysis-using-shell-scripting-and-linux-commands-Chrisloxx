@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# This script pivots the month-wise trend data from a "long" format
-# to a "wide" format, which is easier for gnuplot to plot.
-
 # --- Configuration ---
 INPUT_FILE="output_of_insight3.tsv"
 OUTPUT_FILE="plot_output_of_insight3.tsv"
@@ -14,8 +11,6 @@ if [ ! -f "$INPUT_FILE" ]; then
 fi
 
 # This awk script collects all data, then prints it in a pivoted table.
-# Note: This uses gawk-specific features like asorti for simplicity,
-# which is standard on your Pop!_OS system.
 awk -F'\t' '
     NR > 1 {
         # Collect all unique months and categories

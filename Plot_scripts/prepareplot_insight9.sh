@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # This script calculates the number of emails received for each hour
-# of each day of the week, creating a data file suitable for a heatmap.
+# of each day of the week
 
 # --- Configuration ---
 INPUT_FILE="emails_categorized.tsv"
@@ -13,7 +13,7 @@ if [ ! -f "$INPUT_FILE" ]; then
     exit 1
 fi
 
-# This pipeline calculates the email count and now filters out any
+# This step calculates the email count and now filters out any
 # potential blank lines that would cause gnuplot to fail.
 awk -F'\t' '
     NR > 1 {
@@ -33,6 +33,6 @@ awk '{
     # Output:   Hour DayNum Count
     print $4, $2, $1
 }' | \
-grep . > "$OUTPUT_FILE" # <-- FIX: This filters out any blank lines.
+grep . > "$OUTPUT_FILE" #This filters out any blank lines.
 
 echo "Data for heatmap has been saved to: $OUTPUT_FILE"

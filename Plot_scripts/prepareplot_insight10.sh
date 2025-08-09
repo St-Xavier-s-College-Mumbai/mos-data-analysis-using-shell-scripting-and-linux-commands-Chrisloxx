@@ -8,7 +8,6 @@ if [ ! -f "$INPUT_FILE" ]; then
     exit 1
 fi
 
-# Count sentiments and output: Sentiment<TAB>Count
 awk -F'\t' '
     NR>1 {
         s = $7

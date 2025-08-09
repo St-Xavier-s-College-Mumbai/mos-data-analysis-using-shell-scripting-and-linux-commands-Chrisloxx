@@ -1,5 +1,3 @@
-# --- Gnuplot script to create a multi-series line chart (self-contained) ---
-
 # 1. Set the output format and file name
 set terminal pngcairo enhanced font "sans,10" size 1000,600
 set output 'insight3_linechart.png'
